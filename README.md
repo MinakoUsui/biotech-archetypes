@@ -4,7 +4,7 @@
 
 This project transforms raw CSV data into strategic narratives: investor memos, startup archetypes, founder personas, and style scoring — packaged as markdown-ready diligence cards.
 
-Built with speed and precision to support investment analysis, founder profiling, and thematic scouting in the biotech space.  Good for if you need to draft for hundreds of deals and don't have time for it. 
+Built with speed and precision to support investment analysis, founder profiling, and thematic scouting in the biotech space.  Good for if you need to draft hundreds of memo and don't have time for it. 
 
 ---
 
