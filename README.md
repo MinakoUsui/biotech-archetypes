@@ -1,10 +1,10 @@
 # 🧬 Biotech Archetype Explorer
 
-**Multiple Investor memo engine for biotech M&A deals — generated in under 2 hours using GPT-3.5-turbo**
+**Hundreds of Investor memo engine for biotech M&A deals — generated in under 2 hours using GPT-3.5-turbo**
 
 This project transforms raw CSV data into strategic narratives: investor memos, startup archetypes, founder personas, and style scoring — packaged as markdown-ready diligence cards.
 
-Built with speed and precision to support investment analysis, founder profiling, and thematic scouting in the biotech space.
+Built with speed and precision to support investment analysis, founder profiling, and thematic scouting in the biotech space.  Good for if you need to draft for hundreds of deals and don't have time for it. 
 
 ---
 
